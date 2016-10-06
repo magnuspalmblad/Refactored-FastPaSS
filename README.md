@@ -1,8 +1,8 @@
 ## Synopsis
 
-FastPaSS is an spectral library search alogrithm that is based on SpectraST 4.0. The alogrithm in SpectraST 
-uses inner-products (dot-products), but in FastPaSS this is changed in matrix-matrix multiplications on the gpu
-for increased performance. The options now include more SpectraST 5.0 options.
+FastPaSS is an spectral library search alogrithm that is based on SpectraST 4.0. The algorithm in SpectraST 
+uses inner products (dot products), but in FastPaSS this is changed in matrix multiplications on the GPU
+for increased performance. The options now include more SpectraST 5.0 features.
 
 ## Installation
 
